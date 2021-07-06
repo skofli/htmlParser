@@ -1,4 +1,4 @@
-# htmlParser
+# Html Parser
 
 Service that can parse comments on habr
 Using redis to save md5 hash of comment to avoid repeat
